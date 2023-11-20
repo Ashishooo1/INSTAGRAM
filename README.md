@@ -12,7 +12,7 @@ form {
 }
 
 form h1 {
- background-color: #00BFFF;
+ background-color: #blck;
  color:  red;
  padding: 20px;
  text-align: center;
