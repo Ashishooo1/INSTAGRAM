@@ -13,7 +13,7 @@ form {
 
 form h1 {
  background-color: #00BFFF;
- color: white;
+ color:  red;
  padding: 20px;
  text-align: center;
  font-size: 1.5em;
